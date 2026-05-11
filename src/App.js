@@ -1,8 +1,6 @@
 import React, { useMemo, useState } from "react";
 import "./App.css";
 
-const BOARD_SIZE = 100;
-
 const ladders = {
   4: 14,
   9: 31,
